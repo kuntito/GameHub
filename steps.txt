@@ -1,0 +1,14 @@
+in the parent folder of the incoming project, do:
+
++   `npm create vite@4.1.0`
++   project-name: game-hub
++   select 'React'
++   select 'TypeScript'
+
+open 'game-hub' with vs-code and:
+
++   `npm i`
++   `npm run dev`
++   `git init`
++   `git add .`
++   `git commit -m "initial commit"`
