@@ -12,3 +12,20 @@ open 'game-hub' with vs-code and:
 +   `git init`
 +   `git add .`
 +   `git commit -m "initial commit"`
+
++   `npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion`
+    details at `https://v2.chakra-ui.com/getting-started`
+
+    in `main.tsx`, add:
+    `
+    import { ChakraProvider } from '@chakra-ui/react'
+    import { defaultSystem } from "@chakra-ui/react"
+
+    ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
+        ...
+        <ChakraProvider value={defaultSystem}>
+            ...
+        </ChakraProvider>
+        ...
+    )
+    `
