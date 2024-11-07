@@ -14,6 +14,7 @@ open 'game-hub' with vs-code and:
 +   `git commit -m "initial commit"`
 
 +   `npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion`
+    `npm i @chakra-ui/react@2.10.3`
     details at `https://v2.chakra-ui.com/getting-started`
 
     in `main.tsx`, add:
