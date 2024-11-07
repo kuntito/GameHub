@@ -1,2 +1,2 @@
-installing chakra ui
-03:47
+02:26
+navbar
