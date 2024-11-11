@@ -30,3 +30,5 @@ open 'game-hub' with vs-code and:
         ...
     )
     `
+
++   npm i axios
