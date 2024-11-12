@@ -1,2 +1,2 @@
-05:29
-fetching the games
+01:47
+building game cards
