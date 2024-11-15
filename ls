@@ -1,1 +1,2 @@
-17 fetching the games
+19 - displaying the genres
+03:29
