@@ -1,2 +1,2 @@
-19 - displaying the genres
-03:29
+filtering games by genre
+09:41
