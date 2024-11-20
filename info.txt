@@ -38,3 +38,8 @@ open 'game-hub' with vs-code and:
 
 +   to build app:
     `npm run build`
+
++   `npm i -g vercel`
+
++   to upload project to vercel
+    `vercel` in command prompt
