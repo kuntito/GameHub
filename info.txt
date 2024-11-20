@@ -33,3 +33,5 @@ open 'game-hub' with vs-code and:
 
 +   npm i axios
 +   npm i react-icons@4.7.1
+
++   https://smart-swatch.netlify.app/#121212
